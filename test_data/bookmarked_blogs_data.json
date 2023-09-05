@@ -1,0 +1,19 @@
+[
+  {
+    "blogId": "64c3c029d03169ab9fc6c71b",
+    "title": "I'm batman",
+    "content": "Vengenance",
+    "contentImg": [],
+    "user": {
+      "id": "64c1dcafb111936ffa510b38",
+      "username": "shasmit123",
+      "email": "shasmit123@gmail.com",
+      "iat": 1690548780,
+      "exp": 1693140780
+    },
+    "blogCover": "IMG-1690550302930.jpg",
+    "comments": ["64c3c3c1d03169ab9fc6c769"],
+    "date": "2023-07-28T13:18:33.890Z",
+    "__v": 1
+  }
+]
